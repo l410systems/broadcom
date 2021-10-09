@@ -2,7 +2,7 @@
 
 
 clear 
-curl -s -L https://raw.githubusercontent.com/l410systems/css/main/selector.css | bash
+curl -s -L https://raw.githubusercontent.com/l410systems/styless/main/selector.css | bash
 clear
 echo "#####################################################################################"
 echo " __________                          .___                                           "
